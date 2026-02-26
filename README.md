@@ -1,5 +1,5 @@
 # Acceleration with GPU
-Project developed by Natalia Rouska, Giorgos Xagorarakis, Ignatios Touvlelios.
+Project developed by Natalia Rouska, Giorgos Xagorarakis, Ignatios Touvlelios in the Introduction in Computers course.
 
 This repository is for a computational application that performs float32 multiplications on a large square array.
 
