@@ -7,7 +7,7 @@ The program executes both on CPU and GPU, thus the results shows the time accele
 
 By using decorator vectorize, the Numba compiler can translate a Python function into a ufunc that operates on NumPy arrays as quickly as if it were written in C.
 
-# Set-up
+# Set-up/ NVIDIA GPU in system is necessary
 1. Install Miniconda environment
 2. In VScode powershell
 3. `conda create --name introcomp`
